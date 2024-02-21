@@ -1,0 +1,8 @@
+{
+    "repos": [
+    "https://github.com/tidyverse/dplyr", "https://github.com/tidyverse/ggplot2", "https://github.com/tidyverse/tibble", "https://github.com/r-lib/bench", "https://github.com/krlmlr/bindr", "https://github.com/krlmlr/bindrcpp", "https://github.com/brodieG/fansi", "https://github.com/tidyverse/glue", "https://github.com/r-lib/lifecycle", "https://github.com/r-lib/pillar", "https://github.com/krlmlr/plogr", "https://github.com/RcppCore/Rcpp", "https://github.com/r-lib/rlang", "https://github.com/r-lib/tidyselect", "https://github.com/r-lib/vctrs"
+    ],
+    "projects": [
+    "dplyr", "ggplot2", "tibble"
+    ]
+}

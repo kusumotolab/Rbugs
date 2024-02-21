@@ -1,0 +1,8 @@
+framework/repo/
+framework/generated/
+framework/github_pkgs_repo/
+framework/lib/
+framework/tmp/
+bug_dir
+__pycache__/
+.#*
